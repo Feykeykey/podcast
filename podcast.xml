@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Mon podcast perso</title>
-    <link>https://ton-site.fr/</link>
+    <link>https://feykeykey.github.io/podcast/</link>
     <description>Mes fichiers audio perso</description>
     <language>fr-fr</language>
 
     <item>
       <title>Épisode 1 - Tharp et Lehmann</title>
       <description>Premier épisode</description>
-      <enclosure url="https://drive.google.com/file/d/1RRH9bv96FUK5FI3q8rxYh3YQygXniuNz/view?usp=drive_link" length="12345678" type="audio/mp4" />
+      <enclosure url="https://drive.google.com/file/d/1RRH9bv96FUK5FI3q8rxYh3YQygXniuNz/view" length="12345678" type="audio/mp4" />
       <guid>episode1</guid>
       <pubDate>Mon, 20 Jan 2025 10:00:00 +0100</pubDate>
     </item>
@@ -17,7 +17,7 @@
     <item>
       <title>Épisode 2 - Marie Curie</title>
       <description>Deuxième épisode</description>
-      <enclosure url="https://drive.google.com/file/d/1LQjY9NKVQrlXLYZ9FHX_Uy-s43m3OUow/view?usp=drive_link" length="23456789" type="audio/mp4" />
+      <enclosure url="https://drive.google.com/file/d/1LQjY9NKVQrlXLYZ9FHX_Uy-s43m3OUow/view" length="23456789" type="audio/mp4" />
       <guid>episode2</guid>
       <pubDate>Mon, 21 Jan 2025 10:00:00 +0100</pubDate>
     </item>
@@ -25,7 +25,7 @@
     <item>
       <title>Épisode 3.1 Einstein jusqu'en 1905</title>
       <description>3.1 épisode</description>
-      <enclosure url="https://drive.google.com/file/d/1Oy88JBWAj1NH-qBEhjfXvNFNrVj2Iknl/view?usp=drive_link" length="23456789" type="audio/mp4" />
+      <enclosure url="https://drive.google.com/file/d/1Oy88JBWAj1NH-qBEhjfXvNFNrVj2Iknl/view" length="23456789" type="audio/mp4" />
       <guid>episode2</guid>
       <pubDate>Mon, 21 Jan 2025 10:00:00 +0100</pubDate>
     </item>
@@ -33,7 +33,7 @@
     <item>
       <title>Épisode 3.2 Einstein 1906 à 1932</title>
       <description>3.2 épisode</description>
-      <enclosure url="https://drive.google.com/file/d/1GzRSVJZeoP4TxSzzlopz-Go1A_se93Lz/view?usp=drive_link" length="23456789" type="audio/mp4" />
+      <enclosure url="https://drive.google.com/file/d/1GzRSVJZeoP4TxSzzlopz-Go1A_se93Lz/view" length="23456789" type="audio/mp4" />
       <guid>episode2</guid>
       <pubDate>Mon, 21 Jan 2025 10:00:00 +0100</pubDate>
     </item>
@@ -41,7 +41,7 @@
     <item>
       <title>Épisode 3.3 Einstein 1932 à la mort</title>
       <description>3.3 épisode</description>
-      <enclosure url="URL_MP3_EPISODE_2" length="23456789" type="m4a" />
+      <enclosure url="URL_MP3_EPISODE_2" length="23456789" type="audio/mp4" />
       <guid>episode2</guid>
       <pubDate>Mon, 21 Jan 2025 10:00:00 +0100</pubDate>
     </item>
